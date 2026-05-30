@@ -95,6 +95,7 @@ python main.py
 ```
 ### 4. Thông tin tài khoản 
 tài khoản : admin
+```bash
 mật khẩu : 123456
 
 mật khẩu để có thể vào trang khuyến mãi và trang nhân viên là : admin123
