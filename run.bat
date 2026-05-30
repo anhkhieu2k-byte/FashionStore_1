@@ -1,0 +1,6 @@
+@echo off
+title Running Fashion Store...
+cd /d "%~dp0FashionStore_1"
+echo Starting Fashion Store using virtual environment...
+start .venv\Scripts\python.exe main.py
+exit

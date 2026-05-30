@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Fashion Store (Main)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/FashionStore_1/main.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/FashionStore_1"
+        }
+    ]
+}
